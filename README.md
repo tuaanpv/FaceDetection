@@ -1,3 +1,6 @@
+This is the source code that I created in 2016 to learn about Computer Vision (OpenCV C++). It detects and recognizes human faces and then sends notifications to a phone number via SMS.
+Demo on Laptop and Orange Pi: https://youtu.be/XC400-zM8RM?si=YR5AfJ0he3BLl68B
+
 /* SIM808 get date time
 AT+COPS=2
 AT+COPS=0
